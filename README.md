@@ -109,9 +109,7 @@ This illustrates how risk is reduced across layers.
 | File | Description |
 |------|------------|
 | `app.py` | Streamlit dashboard |
-| `requirements.txt` | Dependencies |
-| `assets/` | Images / demo |
-| `docs/` | Optional notes |
+| `requirements.txt` | List of Python libraries required to run my project |
 
 ---
 
