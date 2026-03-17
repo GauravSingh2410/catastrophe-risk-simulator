@@ -90,7 +90,7 @@ This illustrates how risk is reduced across layers.
 
 ## Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_LINK_HERE)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]("https://catastrophe-risk-simulator.streamlit.app/")
 
 ---
 
